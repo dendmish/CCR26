@@ -1,7 +1,7 @@
 # Customer Churn Prediction
 
 Machine Learning project for predicting customer churn based on customer behavior and service usage patterns.
-
+https://dendmish.pythonanywhere.com/
 ## Project Objective
 
 The goal of this project is to predict whether a customer is likely to churn using machine learning methods and deploy the final model as a FastAPI microservice.
