@@ -23,8 +23,8 @@ The dataset contains information about customer activity, support interactions, 
 ### Target Variable
 
 - Churn
-    - 0 — Customer stays
-    - 1 — Customer leaves
+    - 0 - Customer stays
+    - 1 - Customer leaves
 
 ---
 
