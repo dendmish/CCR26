@@ -133,7 +133,7 @@ CCR26/
 
 ---
 
-## Technologies
+## Dependencies
 
 - Python
 - Pandas
